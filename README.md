@@ -39,8 +39,8 @@
     </tr>
     <tr valign="top">
       <td width="20%" align="center">
-        <span>Node.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+        <span>Typescript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>React</span><br><br><br>
