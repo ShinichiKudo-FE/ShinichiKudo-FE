@@ -38,8 +38,8 @@
         <span>Node.js</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
       <td width="20%" align="center">
-        <span>Nestjs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       <td width="20%" align="center">
         <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
