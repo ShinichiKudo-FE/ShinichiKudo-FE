@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love code, music, movies and basketball
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhanghao-web&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinichiKudo-FE&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech Stack
 <table>
