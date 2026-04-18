@@ -1,63 +1,33 @@
-### Hi there my name's wuji.zhang👋
+### Hi there my name's wuji.zhang 👋
 
-**I'm Fe Engineer** 
+**I'm an AI Application Engineer**
 
-- 🔭 I’m currently working on shanghai
-- 🌱 I’m currently learning React Hooks and vue-next
-- 🤔 I’m looking for girlfriend
-- 💬 Ask me about ...
-- 📫 How to reach me: Call me number
-- ⚡ Fun fact: I love code, music, movies and basketball
+- 🔭 Building AI-native applications and intelligent agents in Shanghai
+- 🌱 Currently exploring agentic workflows, prompt engineering, and RAG systems
+- ⚡ Transitioned from frontend to full-time AI engineering in 2025
+- 🤔 Still looking for a girlfriend — and the perfect system prompt
+- 💬 Ask me about Claude API, ChatGPT integrations, and AI app architecture
+- 🎵 Love code, music, movies, and basketball — fueled by caffeine and curiosity
 
+---
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ShinichiKudo-FE&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+### AI Tech Stack
 
-### Tech Stack
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗩𝘂𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-       <td width="20%" align="center">
-        <span>Element</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/element.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>Typescript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>Ant Design</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/ant-design.svg">
-      </td>  
-      <td width="20%" align="center">
-        <span>𝗪𝗲𝗯𝗽𝗮𝗰𝗸</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/webpack.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Core LLMs | Frameworks | Infra |
+|---|---|---|
+| Claude API (Anthropic) | LangChain | FastAPI |
+| OpenAI API | MCP / Agents | Vector DB (RAG) |
+| Python | Prompt Engineering | Docker |
+
+---
+
+### Previously known for (2020–2024)
+
+`HTML5` `CSS3` `JavaScript` `Vue / React` `TypeScript` `Webpack` `Git`
+
+---
+
+### 2026 Stats
+- ⏱ 100% time on AI projects
+- 🔌 2 major LLM APIs integrated
+- 🪙 ∞ tokens consumed
